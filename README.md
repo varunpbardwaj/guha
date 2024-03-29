@@ -1,6 +1,6 @@
 # Guha
 
-Guha is an open source password manager, powered by [ScalePeak](https://scalepeak.in)
+Guha is an open source password manager, developed by [Varun Bardwaj](https://github.com/varunpbardwaj/)
 
 <hr />
 
@@ -9,7 +9,7 @@ Guha is an open source password manager, powered by [ScalePeak](https://scalepea
 To scaffold Guha web app, run the following command:
 
 ```bash
-npx degit scalepeak/guha guha
+npx degit varunpbardwaj/guha guha
 ```
 
 <hr />
